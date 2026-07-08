@@ -1,0 +1,12 @@
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\obj\Debug\net8.0\MyLibrary.sourcelink.json
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+E:\College\Cognizant_LearningMaterial\Solutions\Week2TestingLab\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll
